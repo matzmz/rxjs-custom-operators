@@ -1,0 +1,30 @@
+{
+  "name": "rxjs-custom-operators",
+  "version": "1.0.0",
+  "description": "rxjs custom operators",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matzmz/rxjs-custom-operators.git"
+  },
+  "keywords": [
+    "rxjs",
+    "operators"
+  ],
+  "author": "Mattia Pini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matzmz/rxjs-custom-operators/issues"
+  },
+  "homepage": "https://github.com/matzmz/rxjs-custom-operators#readme",
+  "dependencies": {
+    "rxjs": "^6.5.3",
+    "rxjs-compat": "^6.5.3"
+  }
+}
